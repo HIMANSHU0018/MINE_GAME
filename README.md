@@ -26,3 +26,9 @@ We can break down the project in the following stages:
 
 
   HOSTED LINK FOR THE SAME >>>>---https://himanshu0018.github.io/MINE_GAME
+
+
+  USES OF PARTICULATES;
+  1-JAVASCRIPT
+  2-HTML
+  3-CSS
